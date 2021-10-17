@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @PrinceOfDorne
+- 👀 I’m interested in Artificial Intelligence/Machine Learning
+- 🌱 I’m currently working in an Indian MNC
